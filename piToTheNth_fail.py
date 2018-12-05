@@ -2,8 +2,7 @@
 import math, decimal
 
 # value of pi
-piInt = 3
-piDec = 14159265358979323846264338327950288419716939937510
+pi = 3.14159265358979323846264338327950288419716939937510
 
 # defining round down function
 def round_down(n, decimals=0):
